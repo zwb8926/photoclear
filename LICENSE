@@ -1,0 +1,26 @@
+GNU Affero General Public License v3.0 (AGPL-3.0)
+
+Copyright (c) 2026 zwb8926
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+AGPL-3.0 Key Points:
+- Copyleft: derivative works must also be licensed under AGPL-3.0
+- Network Use: if you make the software available over a network,
+  you must provide the source code to users of that service
+- Commercial use is permitted
+- Modifications must be open-sourced under the same license
+- Original copyright notice must be preserved
+
+Full license text: https://www.gnu.org/licenses/agpl-3.0.txt

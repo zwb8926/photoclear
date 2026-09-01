@@ -16,6 +16,11 @@ build/
 dist/
 *.spec
 
+# Nuitka
+main.build/
+main.dist/
+nuitka-crash-report.xml
+
 # Intermediate files
 icon_source.jpg
 icon_v2.jpg
